@@ -1,12 +1,12 @@
 # PIR Motion Security System with Audible Alarm
 
 ## Description
-A simple embedded security system that uses a PIR sensor to detect human movement. When motion is detected, a red LED lights up and a piezo buzzer plays a 500 Hz alarm tone. The system is simulated on Arduino Uno using Tinkercad Circuits.
+A simple embedded security system that uses a PIR sensor to detect human movement. When motion is detected, a red LED lights up and a piezo buzzer plays a 800 Hz alarm tone. The system is simulated on Arduino Uno using Tinkercad Circuits.
 
 ## Features
 - Real‑time motion detection (PIR sensor)
 - Visual alarm (red LED)
-- Audible alarm (500 Hz tone via `tone()`)
+- Audible alarm (800 Hz tone via `tone()`)
 - Serial monitor output for debugging
 
 ## Components
@@ -40,4 +40,4 @@ A simple embedded security system that uses a PIR sensor to detect human movemen
 - `/Diagrams/` – Block diagram and electrical schematic
 
 ## Authors
-- [Nikola Borisov, Boyan Nikolov] – [GPCHE "Yordan Radichkov"], [03/05/2026]
+- Nikola Borisov, Boyan Nikolov – GPCHE "Yordan Radichkov", 03/05/2026
