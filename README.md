@@ -33,4 +33,4 @@ A simple embedded security system that uses a PIR sensor to detect human movemen
 - `/Diagrams/` – Block diagram and electrical schematic
 
 ## Authors
-- Nikola Borisov, Boyan Nikolov – GPCHE "Yordan Radichkov", 03/05/2026
+- Nikola Borisov, Boyan Nikolov – GPCHE "Yordan Radichkov", 03/05/2026, Vidin
