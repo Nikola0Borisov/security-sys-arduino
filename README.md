@@ -19,13 +19,6 @@ A simple embedded security system that uses a PIR sensor to detect human movemen
 | Piezo buzzer (passive) | 1 |
 | Jumper wires | 6+ |
 
-## Wiring / Pin Connections
-| PIR Sensor | Arduino | LED | Arduino | Buzzer | Arduino |
-|------------|---------|-----|---------|--------|---------|
-| VCC | 5V | Anode (+) | Pin 9 (via 220Ω) | Positive | Pin 8 |
-| GND | GND | Cathode (-) | GND | Negative | GND |
-| OUT | Pin 2 | | | | |
-
 ## How to Run
 1. Open the `.ino` file in Arduino IDE or Tinkercad.
 2. Connect components as shown in the schematic (screenshots in `/Documentation/Screenshots`).
